@@ -1,4 +1,4 @@
-# 🔐 Secure Communication Server (RSA + AES / 3DES)
+# 🔐 CryptNet (RSA + AES / 3DES)
 
 Ovaj projekat predstavlja implementaciju sigurnog sistema za razmenu poruka između klijenta i servera koristeći:
 
